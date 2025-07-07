@@ -22,7 +22,7 @@ To analyze LendingClub's loan data to identify patterns of default, segment borr
 
 ## 📁 Files Included
 - `loan_risk_analysis.ipynb` – Full EDA and preprocessing notebook
-- `loan_risk_analysis_final.csv` – Cleaned dataset for Tableau
+- `loan_risk_analysis_final.zip` – Cleaned dataset for Tableau
 - `dashboard.png` – Snapshot of Tableau dashboard
 
 ---
